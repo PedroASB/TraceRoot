@@ -23,7 +23,7 @@ Em seu terminal, faça um clone do repositório:
 Em seguida, execute o seguinte comando para entrar no diretório criado e iniciar o programa:
 
 ```bash
-  cd traceroot
+  cd TraceRoot
   python main.py
 ```
 
